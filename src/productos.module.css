@@ -1,0 +1,30 @@
+.producto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.tituloPrincipal{
+color: blue;
+}
+
+.precio{
+    color: brown;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+}
+
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+    gap: 50px;
+}
+
